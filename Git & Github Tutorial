@@ -1,0 +1,80 @@
+Git :- It is a System where we have an our projects and in which we can perform testing , code changes and etc.
+
+
+Github :- It is a cloud based web platform where we upload our projects , we can perform management of our project over there .
+
+
+Check git version :- git --version
+
+Branch :- A series of Code Changes in a branch .
+
+cd :- Change Directory
+
+pwd :- Current Path
+
+1. git init :- Initilized empty git repo in that location
+
+2. git clone (url) :- to get a clone of repo in your local pc
+
+3. ls :- List all the files from tha folder
+
+4. git status :- It shows all code changes which we have done 
+
+5. commit :- means when u have done code changes and u want to lock it 
+
+6. git diff (filename) :- To check the changes u have done in that file
+
+8. staging & Unstaging area :- To commit a code change , its should have to be in staging area .
+
+9. git add . or (file name) :- To add in a staging area.
+
+10. git log :- To check all previous commits
+
+11. git log (no) :- To check specified no of commits 
+
+12. git show (commit id) :- to see changes in that commit using particular commit id .
+
+13. git checkout -b (newbranch) :- For creating a new branch from main branch
+
+14. git branch -d (branchname) :- To delete a branch 
+
+15. git checkout (branch name) :- To switch a branch 
+
+16. git merge (branch name) :- To branch a merge 
+
+17. git reset --hard HEAD^ :- To revert previous changes ( Commit & CodeChanges both will get lost)
+
+18. git reset --soft (commitid) :- To see only code changes , commit will get removed .
+
+19. git push :- to push code changes from local to remote .
+
+20. git restore --staged (filename ) :- to uncommit 
+
+21. git restore (filename) :- to completely removed
+
+22. git commit --amend :- To add changes in previous commit only
+
+23. SAVE :- esc + wq then enter 
+
+24. git remote add origin (url) :- To push first time in your repo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
